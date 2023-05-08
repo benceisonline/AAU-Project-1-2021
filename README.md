@@ -1,2 +1,2 @@
-# AAU-Project-1-2021: Recruitment assistant tool
+# AAU Project 1: Recruitment Assistant Tool (2021)
 University Project, First Semster, 2021
